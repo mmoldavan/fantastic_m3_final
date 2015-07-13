@@ -200,7 +200,7 @@ Scenes/Yuk City Park/Yuk City Market.unity
 ================================================================================
 Game Url:
 ================================================================================
-http://www.redcoatmedia.com/cs6475/milestone3/index.html
+http://projects.mattmoldavan.com/cs6457/m3/index.html
 
 ================================================================================
 Assets Used
