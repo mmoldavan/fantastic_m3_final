@@ -168,6 +168,8 @@ the cat sometimes appears to run up onto the player and tug at him annoyingly.
 This is pretty accurate as to how cats behave, but may be very annoying to a 
 player.
 
+Cat takes a few seconds to play the paw up animation. 
+
 ================================================================================
 Special Instructions for building and running code
 ================================================================================
