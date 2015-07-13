@@ -144,7 +144,7 @@ Other:
 I've tried to set the NPC position to be further from the player; however, AJ 
 will still jump onto other characters. 
 2) AJ doesn't always face the player properly. 
-
+3) the secret animation can take at least 15 seconds to trigger.
 
 ================================================================================
 Individual Requirement: Hannah Glazebrook
